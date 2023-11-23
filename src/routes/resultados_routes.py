@@ -1,5 +1,3 @@
-# resultados_routes.py
-
 from fastapi import APIRouter
 from sqlmodel import select
 
