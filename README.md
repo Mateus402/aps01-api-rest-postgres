@@ -20,3 +20,9 @@ Este projeto consiste em uma API REST desenvolvida usando FastAPI, SQLModel e Po
    ```bash
    git clone https://github.com/Mateus402/aps01-api-rest-postgres.git
    cd nome-do-repositorio
+
+1. **Instalar dependências:**
+
+   ```Instale as dependências do projeto.
+   pip install -r requirements.txt
+
