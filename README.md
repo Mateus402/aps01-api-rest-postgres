@@ -13,6 +13,15 @@ Este projeto consiste em uma API REST desenvolvida usando FastAPI, SQLModel e Po
 
 ---
 
+## Ambiente Virtual:
+    
+1. **Clonar o Repositório:**
+    Crie um ambiente virtual para isolar as dependências do projeto.
+    ```bash
+   python -m venv venv
+
+
+
 ## Configuração do Ambiente
 
 1. **Clonar o Repositório:**
